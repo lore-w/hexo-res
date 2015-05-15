@@ -1,0 +1,3 @@
+[submodule "themes/Yilia"]
+	path = themes/Yilia
+	url = git@github.com:lore-w/hexo-theme-Yilia.git
