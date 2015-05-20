@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: lore-w
-subtitle: lore-w
-description: lore-w
+title: lore-w的博客
+subtitle: ENJOY CODING ENJOY LIFE
+description: 非专业前端工程师，就职于YOHO，喜欢捣鼓各项前端技能，摄影爱好者、完美主义重DU患者。
 author: lore-w
 language:
 timezone:
+keywords: "前端,极客,js,jquery,javascript,html5,html,css,css3,Developer,Programmer,Coder,Geek"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
