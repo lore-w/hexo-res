@@ -5,7 +5,7 @@ module.exports = function (grunt) {
         //grunt-contrib-copy
         copy: {
             main: {
-                src: ['README.md', 'CNAME', 'favicon.ico', 'atom.xml'],
+                src: ['README.md', 'CNAME', 'favicon.ico', 'atom.xml', 'lib/*'],
                 dest: 'public/'
             }
         }
