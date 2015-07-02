@@ -1,5 +1,5 @@
 ---
-title: compass-stretching
+title: "compass-stretching"
 date: 2014-12-15 13:20:12
 tags: [css,sass,compass]
 categories: compass

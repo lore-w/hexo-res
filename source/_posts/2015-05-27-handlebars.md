@@ -2,7 +2,7 @@
 title: "handlerbars"
 date: 2015-05-27 09:55:33
 tags: [handlerbars,mustache]
-categories: handlerbars
+categories: 模板引擎
 ---
 
 ![](/images/2015/handlebars.jpg)
