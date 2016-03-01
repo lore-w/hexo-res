@@ -5,7 +5,7 @@
 # Site
 title: lore-w的博客
 subtitle: ENJOY CODING ENJOY LIFE
-description: 非专业前端工程师，喜欢捣鼓各项前端技术，摄影爱好者、完美主义重DU患者。
+description: 非专业前端工程师，喜欢捣鼓各项前端技术。
 author: lore-w
 language:
 timezone:
@@ -23,7 +23,7 @@ source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
-category_dir: categories
+category_dir: sorts
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: Yilia
+theme: succinct
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
