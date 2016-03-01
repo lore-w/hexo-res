@@ -1,0 +1,3 @@
+[submodule "themes/succint"]
+	path = themes/succint
+	url = git@github.com:lore-w/hexo-succinct-theme.git
